@@ -1,4 +1,4 @@
-![alican rowe studio: PM case, sawhorse, Shrine bench, K, Stay chair and Whorl at one real-world scale, plus two Imago jewelry pieces at 25x](.github/banner.png)
+![alican rowe studio: PM case, sawhorse, Shrine bench, K, Stay chair and Whorl at one real-world scale, with two Imago jewelry pieces shown as a detail](.github/banner.png)
 
 Work lives at [alicanrowe.com](https://www.alicanrowe.com). The repos here are the Claude skills behind it: each one packs the rules, checks and scripts for one craft, so a design can be modelled, checked and rendered before anything is cut, cast or poured.
 
